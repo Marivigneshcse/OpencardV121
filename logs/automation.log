@@ -1,0 +1,1446 @@
+13:51:18.118 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs--
+13:51:19.041 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f966492: 1 ms
+13:51:19.089 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@971e903: 48 ms
+13:51:19.200 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@314c8b4a: 110 ms
+13:51:19.225 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@460510aa: 25 ms
+13:51:19.248 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2d000e80: 20 ms
+13:51:19.266 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@61fafb74: 16 ms
+13:51:19.280 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7a5b769b: 14 ms
+13:52:02.454 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MARIVI~1\AppData\Local\Temp\testng-eclipse-43506476\testng-customsuite.xml"
+13:52:02.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+13:52:02.872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.874 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.879 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+13:52:02.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+13:52:02.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.903 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.906 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:52:02.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:02.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:02.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\AppData\Local\Temp\testng-eclipse-43506476\testng-customsuite.xml
+
+13:52:02.968 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+13:52:07.420 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+13:52:07.657 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+13:52:08.310 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+13:52:08.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:52:10.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+13:52:10.535 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+13:52:11.384 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@59532566: 0 ms
+13:52:11.437 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6a0659ac: 52 ms
+13:52:11.547 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@46d9aec8: 110 ms
+13:52:11.548 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@14379273: 0 ms
+13:52:11.557 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2257fadf: 8 ms
+13:52:11.568 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3fdecce: 11 ms
+13:52:11.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69da0b12: 11 ms
+13:53:50.411 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MARIVI~1\AppData\Local\Temp\testng-eclipse-1856412645\testng-customsuite.xml"
+13:53:50.833 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:53:50.837 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:53:50.840 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.840 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.852 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+13:53:50.875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+13:53:50.878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:53:50.879 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.889 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.889 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:53:50.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.899 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:53:50.899 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:53:50.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\AppData\Local\Temp\testng-eclipse-1856412645\testng-customsuite.xml
+
+13:53:50.948 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+13:53:55.402 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+13:53:55.683 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+13:53:56.598 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+13:53:56.602 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:53:58.878 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+13:53:58.881 [main] ERROR testCases.TC001_AccountRegistrationTest - Test case failed due to exception: expected [//Your Account Has Been Created!] but found [Your Account Has Been Created!]
+java.lang.AssertionError: expected [//Your Account Has Been Created!] but found [Your Account Has Been Created!]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+13:53:58.895 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs--
+13:53:59.825 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3047254d: 0 ms
+13:53:59.872 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@63fdffcd: 47 ms
+13:54:00.003 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2764c546: 130 ms
+13:54:00.033 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5246a3b3: 28 ms
+13:54:00.049 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6972c30a: 15 ms
+13:54:00.064 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@33f98231: 15 ms
+13:54:00.076 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31464a43: 11 ms
+13:59:26.947 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MARIVI~1\AppData\Local\Temp\testng-eclipse--426599196\testng-customsuite.xml"
+13:59:27.408 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:59:27.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+13:59:27.418 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.418 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.420 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.421 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.422 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+13:59:27.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+13:59:27.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:59:27.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.460 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.460 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.462 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.462 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.462 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.462 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.464 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.465 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:59:27.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:59:27.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:59:27.480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\AppData\Local\Temp\testng-eclipse--426599196\testng-customsuite.xml
+
+13:59:27.517 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+13:59:35.639 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+13:59:36.134 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+13:59:37.536 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+13:59:37.548 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:59:40.800 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+13:59:40.805 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+13:59:41.983 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f63e3c7: 0 ms
+13:59:42.041 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1dc2de84: 58 ms
+13:59:42.144 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@14bf57b2: 103 ms
+13:59:42.145 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@46d9aec8: 1 ms
+13:59:42.159 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3c6aa04a: 14 ms
+13:59:42.175 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26a4551a: 15 ms
+13:59:42.189 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@73ad4ecc: 14 ms
+14:17:09.433 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+14:17:09.728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+14:17:17.401 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:17:17.625 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:17:18.187 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:17:18.188 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:17:20.181 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:17:20.184 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:17:57.627 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+14:17:57.924 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+14:20:43.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+14:20:43.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+14:24:18.016 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:24:18.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:24:18.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:24:18.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:24:20.314 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:24:20.317 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:24:37.164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+14:24:37.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+14:24:43.955 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:24:44.111 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:24:44.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:24:44.750 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:24:46.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:24:46.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:24:59.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+14:24:59.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+14:25:05.526 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:25:05.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:25:07.368 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:25:07.370 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:25:10.023 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:25:10.024 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:25:40.546 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:25:40.691 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:25:41.862 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:25:41.862 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:25:43.564 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:25:43.564 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:25:50.286 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:25:50.396 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:25:51.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:25:51.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:25:53.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:25:53.144 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:26:13.542 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+14:26:13.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+14:26:21.694 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:26:21.889 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:26:22.035 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:26:22.184 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:26:23.406 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:26:23.409 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:26:23.715 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:26:23.723 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:26:24.468 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:26:24.640 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:26:26.025 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:26:26.027 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:26:26.143 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:26:26.144 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:26:26.508 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:26:26.508 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:26:27.540 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:26:27.540 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:27:07.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+14:27:07.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+14:27:14.375 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:27:14.870 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:27:15.382 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:27:15.732 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:27:17.022 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:27:17.024 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:27:18.259 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:27:18.261 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:27:19.609 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:27:19.619 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:27:20.963 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+14:27:21.048 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:27:21.048 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+14:27:21.179 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+14:27:23.166 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+14:27:23.166 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:27:24.455 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+14:27:24.455 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:07:10.070 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+16:07:10.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+16:07:15.839 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:07:16.165 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:07:18.077 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:07:18.139 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:07:19.568 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:07:21.944 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:07:23.749 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:07:23.763 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:07:27.763 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:07:28.102 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:07:28.295 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:07:28.302 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:07:29.234 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:07:29.256 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:07:30.247 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:07:30.247 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:07:32.303 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:07:32.303 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:12:30.456 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\MARIVI~1\AppData\Local\Temp\testng-eclipse-521376571\testng-customsuite.xml"
+16:12:30.893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:12:30.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:12:30.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.909 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:12:30.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+16:12:30.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:12:30.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:12:30.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:12:30.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\AppData\Local\Temp\testng-eclipse-521376571\testng-customsuite.xml
+
+16:12:30.985 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+16:12:31.172 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@34a75079: 0 ms
+16:12:31.227 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3efe7086: 55 ms
+16:12:31.358 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@70dd7e15: 131 ms
+16:12:31.391 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e2822: 32 ms
+16:12:31.417 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b6813df: 26 ms
+16:12:31.435 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@47da3952: 18 ms
+16:12:31.450 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2b62442c: 15 ms
+16:12:57.734 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+16:12:58.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+16:13:07.193 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:13:07.234 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:13:08.067 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:13:08.339 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:13:09.461 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:13:09.518 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:13:11.426 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:13:11.430 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:13:13.029 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:13:13.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:13:17.987 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:13:17.989 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:13:18.212 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:13:18.440 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:13:19.338 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:13:19.356 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:13:31.544 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:13:31.561 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test case failed due to exception: expected [Your Account Has Been Created!] but found [Unable to locate element: //h1[normalize-space()='Your Account Has Been Created!']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [8a8cfeab-2c33-4335-bbb5-817f57272ccc, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 146.0.1, moz:accessibilityChecks: false, moz:buildID: 20251217121356, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1852, moz:profile: C:\Users\MARIVI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 8a8cfeab-2c33-4335-bbb5-817f57272ccc]
+java.lang.AssertionError: expected [Your Account Has Been Created!] but found [Unable to locate element: //h1[normalize-space()='Your Account Has Been Created!']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [8a8cfeab-2c33-4335-bbb5-817f57272ccc, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 146.0.1, moz:accessibilityChecks: false, moz:buildID: 20251217121356, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1852, moz:profile: C:\Users\MARIVI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 8a8cfeab-2c33-4335-bbb5-817f57272ccc]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+16:13:31.565 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs--
+16:14:00.491 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml"
+16:14:01.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+16:14:06.943 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:14:06.951 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:14:07.545 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:14:07.805 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:14:08.617 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:14:08.622 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:14:08.968 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:14:08.981 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:14:12.533 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:14:12.540 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:14:12.809 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:14:12.809 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:14:19.056 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+16:14:19.208 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:14:20.239 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:14:20.248 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:14:21.746 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:14:21.746 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+17:03:55.140 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+17:03:55.434 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+17:04:00.280 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+17:04:00.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+17:04:01.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+17:04:01.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:04:04.148 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+17:04:04.151 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+17:04:09.197 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:04:09.642 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:04:10.659 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:04:10.707 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:04:10.707 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+17:04:56.000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+17:04:56.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+17:04:59.465 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:04:59.935 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:05:00.278 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:05:06.277 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:05:06.280 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+17:06:00.855 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+17:06:01.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+17:06:04.266 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:06:08.837 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:06:10.503 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:06:10.559 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:06:10.561 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+07:55:32.886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+07:55:33.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+07:55:57.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:57.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:57.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.905 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:58.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:58.979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:58.979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.068 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.122 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:55:59.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:55:59.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:55:59.384 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+07:55:59.913 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+07:56:02.370 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+07:56:04.847 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+07:56:04.855 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+07:56:05.277 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+07:56:07.765 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+07:56:17.807 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+07:56:17.809 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+07:56:19.821 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+07:56:22.078 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+07:56:24.183 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+07:56:24.186 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+07:56:34.283 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:04:23.596 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+08:04:23.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:04:34.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:34.745 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:34.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.519 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.556 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:35.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:04:35.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:04:35.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:04:36.038 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:04:36.471 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:04:38.976 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:04:42.234 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:04:42.240 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:04:42.706 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:04:45.053 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:04:57.115 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:04:57.118 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:04:57.656 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:05:01.022 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:05:04.191 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:05:04.194 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:05:06.887 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:05:09.203 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:05:21.269 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:05:21.275 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:05:21.645 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:05:23.899 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:05:35.941 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:06:00.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+08:06:00.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:06:05.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:05.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:05.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.219 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.404 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:06:06.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:06:06.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:06:06.471 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:06:06.862 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:06:09.830 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:06:14.008 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:06:14.014 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:06:14.353 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:06:16.620 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:06:28.689 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:06:28.692 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:06:29.110 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:06:31.391 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:06:34.048 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:06:34.051 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:06:34.449 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:06:37.463 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:06:49.492 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:06:49.497 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:06:49.923 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:06:52.178 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:07:04.212 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:09:58.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml"
+08:09:58.380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:10:04.393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:04.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:04.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:05.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:05.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:05.741 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:05.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:05.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:05.818 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:05.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:05.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:05.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:05.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:05.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:05.942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:05.979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:05.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:05.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.027 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.068 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:10:06.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:10:06.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:10:06.569 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:10:07.278 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:10:07.824 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:10:09.346 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:10:09.354 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:10:09.901 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:10:10.744 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:10:20.782 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:10:20.786 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:10:21.157 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:10:21.448 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:10:24.277 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:10:24.280 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:10:24.659 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:10:24.881 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:10:34.928 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:10:34.930 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:10:35.260 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:10:36.100 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:10:46.163 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:18:32.964 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:18:40.530 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:18:41.121 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:18:41.721 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:18:44.970 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:18:44.978 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:18:45.325 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:18:45.631 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:18:55.711 [main] ERROR testCases.TC003_Login_DDT - Test case failed due to exception: expected [true] but found [false]
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at testCases.TC003_Login_DDT.verify_Login_DDT(TC003_Login_DDT.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+08:18:55.720 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:18:56.111 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:18:56.371 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:18:57.925 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:18:57.928 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:18:58.334 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:18:58.550 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:19:08.613 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:19:08.615 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:19:08.994 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:19:09.294 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:19:19.666 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:20:03.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:20:09.039 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:20:09.588 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:20:09.912 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:20:11.366 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:20:11.371 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:20:11.831 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:20:12.138 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:20:22.196 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:20:22.197 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:20:22.540 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:20:24.096 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:20:24.851 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:20:24.856 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:20:25.325 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:20:25.572 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:20:35.602 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:20:35.602 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:20:36.097 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:20:36.338 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:20:46.408 [main] ERROR testCases.TC003_Login_DDT - Test case failed due to exception: expected [true] but found [false]
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at testCases.TC003_Login_DDT.verify_Login_DDT(TC003_Login_DDT.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+08:22:09.026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+08:22:15.743 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:22:16.180 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:22:17.142 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:22:17.841 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:22:17.846 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:22:18.195 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:22:18.463 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:22:28.510 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:22:28.510 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:22:28.832 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:22:29.084 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:22:30.308 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:22:30.310 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:22:31.635 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:22:31.884 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:22:41.906 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+08:22:41.910 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+08:22:44.900 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+08:22:45.169 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+08:22:55.203 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:34:05.930 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+10:34:24.241 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+10:34:37.351 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:34:38.197 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:34:39.762 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:34:40.544 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:34:40.561 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:34:41.587 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:34:44.018 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:34:54.057 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:34:54.060 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:34:54.520 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:34:54.946 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:34:56.499 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:34:56.504 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:34:56.800 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:35:06.836 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:35:45.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+10:35:51.633 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:35:52.259 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:35:53.750 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:35:54.329 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:35:54.344 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:35:54.854 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:35:56.360 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:36:06.391 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:36:06.397 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:36:06.982 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:36:08.626 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:36:09.238 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:36:09.243 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:36:09.882 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:36:10.290 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:36:20.345 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:36:20.353 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:36:20.908 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:36:21.481 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:36:32.499 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:39:35.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+10:39:49.088 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:39:49.819 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:39:50.777 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:39:53.188 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:39:53.201 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:39:54.199 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:39:55.871 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:40:05.898 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:40:05.916 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:40:07.211 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:40:09.972 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:40:10.498 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+10:40:10.507 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:40:20.687 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+10:40:21.775 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+10:40:24.617 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+10:40:34.710 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:00:16.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:00:23.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting verify account registration TC ----****
+12:00:25.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:00:26.623 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:00:26.632 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:00:32.263 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:00:32.267 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:00:37.236 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:00:37.845 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:00:38.530 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:00:39.369 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:00:39.373 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:01:05.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:01:09.828 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:01:10.473 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:01:11.171 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:01:12.070 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:01:12.070 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:06:17.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:06:20.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:06:22.079 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:06:23.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:06:23.067 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:06:28.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:06:28.422 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:08:33.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:10:22.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:11:19.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+12:11:22.862 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:11:24.579 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:11:27.018 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:11:27.119 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:11:27.122 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:38:54.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:39:02.051 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:39:02.768 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:39:03.263 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:39:05.995 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:39:06.004 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:39:06.338 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:39:06.600 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:39:26.670 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:39:26.673 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:39:26.993 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:39:27.239 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:39:28.344 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:39:28.349 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:39:38.567 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:39:38.903 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:39:39.179 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:39:59.848 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:41:44.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:41:49.038 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:41:49.708 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:41:50.037 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:41:51.357 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:41:51.372 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:41:51.706 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:41:52.632 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:42:12.693 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:42:12.697 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:42:13.125 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:42:13.386 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:42:14.568 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+12:42:14.572 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:42:24.739 [main] INFO  testCases.TC003_Login_DDT - ****-----Starting TC003_Login_DDTC ----****
+12:42:25.130 [main] INFO  testCases.TC003_Login_DDT -  Inside login account page
+12:42:25.389 [main] INFO  testCases.TC003_Login_DDT - Inside the MyAccount page
+12:42:45.450 [main] INFO  testCases.TC003_Login_DDT - ****-----Finished TC003_Login_DDT----****
+13:05:04.496 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\grouping.xml
+
+13:05:09.775 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+13:05:10.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+13:05:11.337 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+13:05:11.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:05:15.371 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+13:05:15.381 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+13:05:19.089 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+13:05:19.609 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+13:05:23.072 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+13:05:23.163 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+13:05:23.163 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:09:26.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:09:37.716 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:09:38.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:09:39.588 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:09:39.599 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:09:42.976 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:09:42.978 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:09:46.646 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:09:47.084 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:09:48.283 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:09:48.391 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:09:48.391 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:14:29.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:14:34.034 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:14:34.242 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:14:34.822 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:14:34.823 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:14:36.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:14:36.220 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:14:41.314 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:14:42.801 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:14:44.471 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:14:44.638 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:14:44.638 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:20:13.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:20:18.181 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:20:19.045 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:20:19.801 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:20:19.814 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:20:23.299 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:20:23.308 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:20:26.832 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:20:27.252 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:20:27.632 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:20:28.988 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:20:28.989 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:20:59.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:21:02.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:21:02.967 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:21:03.377 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:21:03.379 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:21:04.945 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:21:04.948 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:21:08.183 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:21:08.551 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:21:09.808 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:21:09.912 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:21:09.912 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:28:58.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:29:01.981 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:29:02.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:29:02.864 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:29:02.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:29:04.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:29:04.531 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:29:07.763 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:29:08.157 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:29:08.513 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:29:09.271 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:29:09.271 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+16:48:23.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+16:48:27.950 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+16:48:28.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+16:48:29.861 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+16:48:29.868 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:48:32.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+16:48:32.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+16:48:36.756 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+16:48:37.132 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+16:48:37.492 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+16:48:58.148 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+16:48:58.166 [main] ERROR testCases.TC002_LoginTest - Test case failed due to exception: Login Failed expected [true] but found [false]
+java.lang.AssertionError: Login Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at testCases.TC002_LoginTest.Login(TC002_LoginTest.java:31)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+09:09:16.695 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:09:24.124 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:09:24.922 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:09:26.722 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:09:26.726 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:09:31.841 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:09:31.848 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+09:09:38.431 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+09:09:39.337 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+09:09:40.678 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+09:09:40.911 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+09:09:40.911 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+09:11:40.427 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:18:04.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:18:11.826 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:18:12.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:18:13.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:18:13.004 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:18:14.916 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:18:14.918 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+09:18:17.659 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+09:18:18.123 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+09:18:18.693 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+09:18:20.027 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+09:18:20.027 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+09:19:19.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:20:36.185 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:24:16.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:25:13.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:25:18.027 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:25:18.533 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:25:20.563 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:25:20.567 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:25:23.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:25:23.107 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+09:25:25.769 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+09:25:26.684 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+09:25:28.085 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+09:25:28.239 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+09:25:28.239 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+09:25:40.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:25:44.149 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:25:44.297 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:25:44.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:25:44.915 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:25:46.781 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:25:46.787 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+09:25:50.345 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+09:25:50.802 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+09:25:51.980 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+09:25:52.119 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+09:25:52.120 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+09:26:20.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+09:26:23.565 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:26:23.743 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:26:24.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:26:24.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:26:25.853 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:26:25.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+09:26:28.075 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+09:26:28.505 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+09:26:28.884 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+09:26:29.638 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+09:26:29.638 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+09:33:39.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\CrossBrowserTest.xml
+
+09:33:49.589 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:33:50.611 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:33:52.475 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+09:33:52.478 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+09:33:54.228 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+09:33:54.759 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:36:57.529 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+09:36:57.608 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test case failed due to exception: expected [Your Account Has Been Created!] but found [java.util.concurrent.TimeoutException
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [cefc338935f963651e8470c213beaeb2, getElementText {id=f.6760E0BC3EE380A5A514D32D279EBD1E.d.46BB345EFC0447C871DD1C5802731615.e.50}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.96, fedcm:accounts: true, goog:processID: 16104, ms:edgeOptions: {debuggerAddress: localhost:57253}, msedge: {msedgedriverVersion: 143.0.3650.96 (d55fe85d0141..., userDataDir: C:\Users\MARIVI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.214:4444/se..., se:cdpVersion: 143.0.3650.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (cefc338935f963651e8470c213beaeb2)] -> xpath: //h1[normalize-space()='Your Account Has Been Created!']]]
+java.lang.AssertionError: expected [Your Account Has Been Created!] but found [java.util.concurrent.TimeoutException
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [cefc338935f963651e8470c213beaeb2, getElementText {id=f.6760E0BC3EE380A5A514D32D279EBD1E.d.46BB345EFC0447C871DD1C5802731615.e.50}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.96, fedcm:accounts: true, goog:processID: 16104, ms:edgeOptions: {debuggerAddress: localhost:57253}, msedge: {msedgedriverVersion: 143.0.3650.96 (d55fe85d0141..., userDataDir: C:\Users\MARIVI~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.214:4444/se..., se:cdpVersion: 143.0.3650.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (cefc338935f963651e8470c213beaeb2)] -> xpath: //h1[normalize-space()='Your Account Has Been Created!']]]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+12:09:38.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:10:12.326 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:10:12.722 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:10:13.585 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:10:13.589 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:10:16.889 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:10:16.893 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:10:21.116 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:10:21.989 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:10:23.841 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:10:24.187 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:10:24.188 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:11:33.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:11:39.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:11:39.483 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:11:40.284 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:11:40.290 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:11:43.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:11:43.485 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:11:45.920 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:11:46.928 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:11:48.489 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:11:48.916 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:11:48.916 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:13:07.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:13:12.024 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:13:12.554 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:13:13.587 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:13:13.593 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:13:17.212 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:13:17.222 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:13:24.127 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:13:24.955 [TestNG-tests-2] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:13:26.187 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:13:26.516 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:13:26.517 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:16:49.720 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:16:54.510 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:16:54.872 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:16:55.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:16:55.590 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:16:58.450 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:16:58.454 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:17:01.029 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:17:01.832 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:17:03.649 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:17:04.190 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:17:04.190 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:17:13.956 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:17:14.306 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:17:15.413 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:17:15.415 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:17:18.031 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:17:18.032 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:17:26.507 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:17:27.349 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:17:28.769 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:17:29.175 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:17:29.175 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:41:34.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Marivignesh\Desktop\Workspace\OpencartV121\master.xml
+
+12:41:40.507 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:41:40.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:41:41.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:41:41.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:41:43.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:41:43.481 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:41:46.681 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:41:47.442 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:41:48.543 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:41:48.720 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:41:48.721 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+12:42:00.244 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+12:42:00.404 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+12:42:01.021 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:42:01.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:42:02.691 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+12:42:02.691 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+12:42:10.064 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+12:42:10.487 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+12:42:11.458 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+12:42:11.669 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+12:42:11.670 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+17:25:16.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+17:25:16.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+17:25:17.639 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+17:25:17.642 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:25:19.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+17:25:19.995 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+17:25:23.834 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:25:24.812 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:25:27.212 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:25:28.556 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:25:28.556 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+17:53:42.644 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+17:53:43.765 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+17:53:44.763 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+17:53:44.781 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:53:50.330 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+17:53:50.335 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+17:53:56.095 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:53:56.789 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:53:58.522 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:53:59.521 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:53:59.521 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
+17:56:20.039 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Starting TC001_verify account registration TC ----****
+17:56:20.316 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account
+17:56:20.907 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+17:56:20.914 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:56:23.774 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg
+17:56:23.780 [main] INFO  testCases.TC001_AccountRegistrationTest - ****-----Finished verify account registration TC ----****
+17:56:27.532 [main] INFO  testCases.TC002_LoginTest - ****-----Starting Login TC ----****
+17:56:28.149 [main] INFO  testCases.TC002_LoginTest -  Inside login account page
+17:56:28.818 [main] INFO  testCases.TC002_LoginTest - Inside the MyAccount page
+17:56:29.765 [main] INFO  testCases.TC002_LoginTest - Validating whether myaccount page is exist or not
+17:56:29.765 [main] INFO  testCases.TC002_LoginTest - ****-----Finished TC002_Login_TC----****
